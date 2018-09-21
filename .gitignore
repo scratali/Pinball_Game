@@ -1,0 +1,26 @@
+##########################
+# Unreal Generated Files #
+##########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/Architecture
+BuildingEscape/Content/StarterContent/Audio
+BuildingEscape/Content/StarterContent/Blueprints
+BuildingEscape/Content/StarterContent/HDRI
+BuildingEscape/Content/StarterContent/Maps
+BuildingEscape/Content/StarterContent/Materials
+BuildingEscape/Content/StarterContent/Particles
+BuildingEscape/Content/StarterContent/Textures
+
+######################
+# VS Generated Files #
+######################
+*.VC.db
+*.VC.opendb
+*.ipch
+*.sln
+*.VC.db-shm
+*.VC.db-wal
