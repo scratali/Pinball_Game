@@ -8,6 +8,7 @@
 */Saved
 
 
+
 ######################
 # VS Generated Files #
 ######################
@@ -17,4 +18,5 @@
 *.sln
 *.VC.db-shm
 *.VC.db-wal
+
 Pinball/Content/Assets/Sounds/
